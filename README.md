@@ -1,2 +1,2 @@
-# web_stats_project_li_2018
- web stuff
+# web_stats_project
+ Tool for teaching effect size calculations in statistical genetics
