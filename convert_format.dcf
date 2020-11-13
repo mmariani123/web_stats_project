@@ -1,0 +1,12 @@
+name: convert_format
+title: convert_format
+username:
+account: mikemariani
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 293593
+bundleId: 1253774
+url: https://mikemariani.shinyapps.io/convert_format/
+when: 1520280408.81528
+asMultiple: FALSE
+asStatic: FALSE
